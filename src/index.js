@@ -4,11 +4,6 @@ import './index.css'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 
-import React from "react";
-import { render } from "react-dom";
-import App from "./App";
-import "./styles.css";
-
 // User Courses Table View
 
 // Create a table view of the users list and their selected course
